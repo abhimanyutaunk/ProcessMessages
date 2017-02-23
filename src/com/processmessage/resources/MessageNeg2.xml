@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SalesMessage>
+  <Message type="Type1">
+        <productType>Apple</productType>
+        <salesCount>1ab</salesCount>	               
+        <saleValue>10</saleValue>
+   </Message>
+   <Message type="Type2">
+        <productType>Apple</productType>
+        <salesCount>20</salesCount>	              
+        <saleValue>10</saleValue>
+   </Message>
+  <Message type="Type3">
+        <productType>Apple</productType>
+        <salesOperation>ADD</salesOperation>	               
+        <saleValue>20</saleValue>
+  </Message>
+  <Message type="Type1">
+        <productType>Mango</productType>
+        <salesCount>1</salesCount>		               
+        <saleValue>10</saleValue>
+   </Message>
+   <Message type="Type2">
+        <productType>Mango</productType>
+        <salesCount>20</salesCount>		               
+        <saleValue>10</saleValue>
+   </Message>
+  <Message type="Type3">
+        <productType>Mango</productType>
+        <salesOperation>SUBTRACT</salesOperation>		               
+        <saleValue>20</saleValue>
+  </Message>
+ <Message type="Type1">
+        <productType>Apple</productType>
+        <salesCount>1</salesCount>		               
+        <saleValue>10</saleValue>
+   </Message>
+   <Message type="Type2">
+        <productType>Apple</productType>
+        <salesCount>20</salesCount>		               
+        <saleValue>10</saleValue>
+   </Message>
+  <Message type="Type3">
+        <productType>Apple</productType>
+        <salesOperation>MULTIPLY</salesOperation>		               
+        <saleValue>20</saleValue>
+   </Message>
+   <Message type="Type1">
+        <productType>Mango</productType>
+        <salesCount>1</salesCount>		               
+        <saleValue>10</saleValue>
+   </Message>
+    <Message type="Type1">
+        <productType>Orange</productType>
+        <salesCount>1</salesCount>	               
+        <saleValue>10</saleValue>
+   </Message>
+   <Message type="Type2">
+        <productType>Orange</productType>
+        <salesCount>20</salesCount>	               
+        <saleValue>10</saleValue>
+   </Message>
+  <Message type="Type3">
+        <productType>Orange</productType>
+        <salesOperation>ADD</salesOperation>	               
+        <saleValue>20</saleValue>
+  </Message>
+  <Message type="Type1">
+        <productType>Pineapple</productType>
+        <salesCount>1</salesCount>		               
+        <saleValue>10</saleValue>
+   </Message>
+   <Message type="Type2">
+        <productType>Pineapple</productType>
+        <salesCount>20</salesCount>		               
+        <saleValue>10</saleValue>
+   </Message>
+  <Message type="Type3">
+        <productType>Pineapple</productType>
+        <salesOperation>ADD</salesOperation>		               
+        <saleValue>20</saleValue>
+  </Message>
+ <Message type="Type1">
+        <productType>Orange</productType>
+        <salesCount>1</salesCount>		               
+        <saleValue>10</saleValue>
+   </Message>
+   <Message type="Type2">
+        <productType>Orange</productType>
+        <salesCount>20</salesCount>		               
+        <saleValue>10</saleValue>
+   </Message>
+  <Message type="Type3">
+        <productType>Orange</productType>
+        <salesOperation>MULTIPLY</salesOperation>		               
+        <saleValue>20</saleValue>
+   </Message>
+   <Message type="Type1">
+        <productType>Pineapple</productType>
+        <salesCount>1</salesCount>		               
+        <saleValue>10</saleValue>
+   </Message>
+   <Message type="Type1">
+        <productType>Apple</productType>
+        <salesCount>1</salesCount>	               
+        <saleValue>10</saleValue>
+   </Message>
+   <Message type="Type2">
+        <productType>Apple</productType>
+        <salesCount>20</salesCount>	               
+        <saleValue>10</saleValue>
+   </Message>
+  <Message type="Type3">
+        <productType>Apple</productType>
+        <salesOperation>ADD</salesOperation>	               
+        <saleValue>20</saleValue>
+  </Message>
+  <Message type="Type1">
+        <productType>Mango</productType>
+        <salesCount>1</salesCount>		               
+        <saleValue>10</saleValue>
+   </Message>
+   <Message type="Type2">
+        <productType>Mango</productType>
+        <salesCount>20</salesCount>		               
+        <saleValue>10</saleValue>
+   </Message>
+  <Message type="Type3">
+        <productType>Mango</productType>
+        <salesOperation>ADD</salesOperation>		              
+        <saleValue>20</saleValue>
+  </Message>
+ <Message type="Type1">
+        <productType>Apple</productType>
+        <salesCount>1</salesCount>		               
+        <saleValue>10</saleValue>
+   </Message>
+   <Message type="Type2">
+        <productType>Apple</productType>
+        <salesCount>20</salesCount>		               
+        <saleValue>10</saleValue>
+   </Message>
+  <Message type="Type3">
+        <productType>Apple</productType>
+        <salesOperation>MULTIPLY</salesOperation>		               
+        <saleValue>20</saleValue>
+   </Message>
+   <Message type="Type1">
+        <productType>Mango</productType>
+        <salesCount>1</salesCount>		               
+        <saleValue>10</saleValue>
+   </Message>
+    <Message type="Type1">
+        <productType>Orange</productType>
+        <salesCount>1</salesCount>	               
+        <saleValue>10</saleValue>
+   </Message>
+   <Message type="Type2">
+        <productType>Orange</productType>
+        <salesCount>20</salesCount>	               
+        <saleValue>10</saleValue>
+   </Message>
+  <Message type="Type3">
+        <productType>Orange</productType>
+        <salesOperation>ADD</salesOperation>	               
+        <saleValue>20</saleValue>
+  </Message>
+  <Message type="Type1">
+        <productType>Pineapple</productType>
+        <salesCount>1</salesCount>		               
+        <saleValue>10</saleValue>
+   </Message>
+   <Message type="Type2">
+        <productType>Pineapple</productType>
+        <salesCount>20</salesCount>		               
+        <saleValue>10</saleValue>
+   </Message>
+  <Message type="Type3">
+        <productType>Pineapple</productType>
+        <salesOperation>ADD</salesOperation>		               
+        <saleValue>20</saleValue>
+  </Message>
+ <Message type="Type1">
+        <productType>Orange</productType>
+        <salesCount>1</salesCount>		               
+        <saleValue>10</saleValue>
+   </Message>
+   <Message type="Type2">
+        <productType>Orange</productType>
+        <salesCount>20</salesCount>		               
+        <saleValue>10</saleValue>
+   </Message>
+  <Message type="Type3">
+        <productType>Orange</productType>
+        <salesOperation>MULTIPLY</salesOperation>		              
+        <saleValue>20</saleValue>
+   </Message>
+   <Message type="Type1">
+        <productType>Pineapple</productType>
+        <salesCount>1</salesCount>		               
+        <saleValue>10</saleValue>
+   </Message>
+      <Message type="Type1">
+        <productType>Orange</productType>
+        <salesCount>1</salesCount>	               
+        <saleValue>10</saleValue>
+   </Message>
+   <Message type="Type2">
+        <productType>Orange</productType>
+        <salesCount>20</salesCount>	               
+        <saleValue>10</saleValue>
+   </Message>
+  <Message type="Type3">
+        <productType>Orange</productType>
+        <salesOperation>ADD</salesOperation>	               
+        <saleValue>20</saleValue>
+  </Message>
+  <Message type="Type1">
+        <productType>Pineapple</productType>
+        <salesCount>1</salesCount>		               
+        <saleValue>10</saleValue>
+   </Message>
+   <Message type="Type2">
+        <productType>Pineapple</productType>
+        <salesCount>20</salesCount>		               
+        <saleValue>10</saleValue>
+   </Message>
+  <Message type="Type3">
+        <productType>Pineapple</productType>
+        <salesOperation>ADD</salesOperation>		               
+        <saleValue>20</saleValue>
+  </Message>
+ <Message type="Type1">
+        <productType>Orange</productType>
+        <salesCount>1</salesCount>		              
+        <saleValue>10</saleValue>
+   </Message>
+   <Message type="Type2">
+        <productType>Orange</productType>
+        <salesCount>20</salesCount>		               
+        <saleValue>10</saleValue>
+   </Message>
+  <Message type="Type3">
+        <productType>Orange</productType>
+        <salesOperation>MULTIPLY</salesOperation>		               
+        <saleValue>20</saleValue>
+   </Message>
+   <Message type="Type1">
+        <productType>Pineapple</productType>
+        <salesCount>1</salesCount>		               
+        <saleValue>10</saleValue>
+   </Message>
+   <Message type="Type3">
+        <productType>Orange</productType>
+        <salesOperation>ADD</salesOperation>		               
+        <saleValue>20</saleValue>
+   </Message>
+   <Message type="Type1">
+        <productType>Pineapple</productType>
+        <salesCount>1</salesCount>		               
+        <saleValue>10</saleValue>
+   </Message>
+     
+   
+</SalesMessage>
